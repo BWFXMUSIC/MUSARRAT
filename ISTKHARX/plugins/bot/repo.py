@@ -13,7 +13,7 @@ start_txt = """
  
 ✰ 𝗣ᴀʜʟᴇ 𝗣ᴀᴘᴀ 𝗕ᴏʟ 𝗥ᴇᴘᴏ 𝗢ᴡɴᴇʀ ᴋᴏ 
 
-✰ || @ll_THUNDER_lll ||
+✰ || @L2R_KING ||
  
 ✰ 𝗥ᴜɴ 24x7 𝗟ᴀɢ 𝗙ʀᴇᴇ 𝗪ɪᴛʜᴏᴜᴛ 𝗦ᴛᴏᴘ
  
@@ -26,17 +26,17 @@ start_txt = """
 async def start(_, msg):
     buttons = [
         [ 
-          InlineKeyboardButton("𝗔ᴅᴅ ᴍᴇ 𝗠ᴀʙʏ", url=f"https://t.me/{BOT_USERNAME}?startgroup=true")
+          InlineKeyboardButton("⛩️𝐀ᴅᴅ ᴍᴜsɪᴄ 𝐁σт⛩️", url=f"https://t.me/{BOT_USERNAME}?startgroup=true")
         ],
         [
-          InlineKeyboardButton("𝐑ᴇᴘᴏ", url="https://github.com/TEAM-ISTKHAR/MUSARRAT"),
-          InlineKeyboardButton("⍣ ፝֠֩ ̶ ̶ꭘⷪ ͓ ꯭፝֠֩͠ ̶꯭ ̶͓𝚰𝛅꯭𝗍ᴋ꯭ʜᴧ꯭ꝛ", url="https://t.me/+czQ48LDbT1cxMWQ1"),
+          InlineKeyboardButton("𝐑ᴇᴘᴏ", url="https://github.com/BWFTIME/AshishMusic"),
+          InlineKeyboardButton("𝐿2𝙍ꨄ𝐊𝐈𝐍𝐆", url="https://t.me/L2R_KING"),
           ],
                [
-                InlineKeyboardButton("𝗧ᴇᴀᴍ 𝗣ᴜʀᴠɪ 𝗕ᴏᴛs", url=f"https://t.me/PURVI_SUPPORT"),
+                InlineKeyboardButton("Gʀᴏᴜᴘꨄ︎•ʙωғ❣️", url=f"https://t.me/BWF_MUSIC1"),
 ],
 [
-InlineKeyboardButton("𝗠ᴀɪɴ 𝗕ᴏᴛ", url=f"https://t.me/PURVI_MUSIC_BOT"),
+InlineKeyboardButton("[🥀✨➪ 𝙊𝙁𝙁𝙄𝘾𝙄𝘼𝙇⏎】☠︎︎", url=f"https://t.me/MentalMusicRobot"),
 
         ]]
     
