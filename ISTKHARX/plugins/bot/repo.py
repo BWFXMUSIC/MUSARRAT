@@ -43,7 +43,7 @@ InlineKeyboardButton("[🥀✨➪ 𝙊𝙁𝙁𝙄𝘾𝙄𝘼𝙇⏎】☠︎�
     reply_markup = InlineKeyboardMarkup(buttons)
     
     await msg.reply_photo(
-        photo="https://files.catbox.moe/60ay2d.jpg",
+        photo="https://telegra.ph/file/e576aa8308c49d945f433.jpg",
         caption=start_txt,
         reply_markup=reply_markup
     )
